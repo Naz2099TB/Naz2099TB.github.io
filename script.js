@@ -16,7 +16,7 @@ let fontList = [
     "Garamond",
     "Georgia",
     "Courier New",
-    "Cursive",
+    "Comic Sans MS",
 ];
 
 const intializer = () => {
